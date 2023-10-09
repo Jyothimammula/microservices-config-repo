@@ -1,8 +1,8 @@
 # microservices-config-repo
 
-  #spring.datasource.url=jdbc:mysql://localhost:3306/department_db
-#spring.datasource.username=root
-#spring.datasource.password=sanjyo@12
-#
-#spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL8Dialect
-#spring.jpa.hibernate.ddl-auto=update
+spring.datasource.url=jdbc:mysql://localhost:3306/department_db
+spring.datasource.username=root
+spring.datasource.password=sanjyo@12
+
+spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL8Dialect
+spring.jpa.hibernate.ddl-auto=update
